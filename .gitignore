@@ -1,3 +1,6 @@
 .idea
 food-store.iml
 target/
+.classpath
+.project
+.settings
